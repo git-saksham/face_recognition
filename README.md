@@ -24,4 +24,4 @@ This project implements a face recognition attendance system that uses stored im
 - Python 3.x
 - Pip
 
-
+## Images from projects
